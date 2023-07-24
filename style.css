@@ -1,0 +1,135 @@
+body{
+	background-image:url('img/les_fon_2.png');
+	background-attachment: fixed;
+}
+input[type='button']{
+	height:30px;
+	min-width:60px;
+}
+figure{
+	margin:0px;
+}
+figcaption{
+	text-align: center;
+}
+td {
+  text-align: left;
+  vertical-align: top;
+text-indent: 10px;}
+p{
+	margin-left:15px;
+	margin-right:15px;
+	text-align:justify;
+	text-indent:30px;
+	font-size:20px;
+}
+summary{
+	background-color:#bd9d80;
+}
+
+.h{
+	font-family:segoe script;
+	font-size:45px;
+	margin-top:30px;
+}
+.imagor{
+	float:right;
+	width:350px;
+	font-size:15px;
+	font-style:italic;
+	color:#8a8472;
+}
+.imagol{
+	float:left;
+	width:350px;
+	font-size:15px;
+	font-style:italic;
+	color:#8c8775;
+}
+.imagoor{
+	float:right;
+	width:550px;
+	font-size:15px;
+	font-style:italic;
+	color:#8c8775;
+}
+.imagool{
+	float:left;
+	width:450px;
+	font-size:15px;
+	font-style:italic;
+	color:#8c8775;
+}
+.imagoool{
+	float:left;
+	width:650px;
+	font-size:15px;
+	font-style:italic;
+	color:#8c8775;
+}
+.imagooor{
+	float:right;
+	width:700px;
+	font-size:15px;
+	font-style:italic;
+	color:#8c8775;
+}
+.podpis{
+	background-color:#fffb00;
+}
+.head_content {
+	vertical-align: middle;
+}
+
+.header{
+	text-align:left;
+	position: relative;
+	float: up;
+vertical-align: middle;
+margin:5px auto;
+height:200px;
+color:#241b16;
+width:85%;
+	}
+.boder{
+	position: relative;
+	width:95%;
+	background-color:rgba(250,231,195,0.85);
+	color:#5b3928;
+	border: 1px solid #8c8473;
+	border-radius: 15px;
+	margin: auto;
+}
+.footer{
+	position: relative;
+	float: down;
+	background-color:#003aff;
+}
+.dopper{
+	position: relative;
+	float: left;
+	background-color:#ddcdbc;
+	margin-right:8px;
+	margin-bottom:8px;
+	border: 2px solid #9e897ffc;
+	border-radius: 15px;
+}
+.task_done{
+	background-color:green;
+	border: 4px solid #fffb00;
+	border-radius: 15px;
+}
+.task_undone{
+	background-color:red;
+	border: 4px solid #fffb00;
+	border-radius: 15px;
+}
+.pri_low{
+	background-color:cyan;
+}
+.pri_mid{
+	background-color:yellow;
+}
+.pri_high{
+	background-color:orange;
+}
